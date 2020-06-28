@@ -1,0 +1,11 @@
+. Import XiaomiParts V2 (thanks to @NBD_ERICK & @smokey_18 )
+. Fix Bluetooth stuffs (thanks to @NBD_ERICK)
+. Fix screen cast
+. Change default hotspot name 
+. Add MSM thermal controller XiaomiParts
+. Add High performance Audio XiaomiParts
+. Add spectrum support
+. Update carrier config overlay from tissot
+. Device tree full rebase 
+. Update gps blob
+. Update media blob 
