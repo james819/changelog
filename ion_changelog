@@ -1,11 +1,21 @@
-. Import XiaomiParts V2 (thanks to @NBD_ERICK & @smokey_18 )
-. Fix Bluetooth stuffs (thanks to @NBD_ERICK)
-. Fix screen cast
-. Change default hotspot name 
-. Add MSM thermal controller XiaomiParts
-. Add High performance Audio XiaomiParts
-. Add spectrum support
-. Update carrier config overlay from tissot
-. Device tree full rebase 
-. Update gps blob
-. Update media blob 
+Device changelog
+
+- Add overlays for Always-on display
+- Pin critical system apps that always need ..
+- add missing net_raw to pm-service 
+- Enable ro.telephony.use_old_mnc_mcc_format
+- Move IMS system libs to product
+- Remove qti_libpermissions.xml
+- Drop QMI libqmi_cci_system blobs
+- Move QMI system libs to product 
+- Update RIL permissions from LA.UM.8.6.r1-04400-89xx.0
+- Move RIL system libs to product
+- Import IMS inits for self-contained modules
+- Add audiosphere effect support 
+- Add Audiosphere blobs from LA.UM.8.6.r1-04400-89xx.0 
+- Update qti_permissions from LA.UM.8.6.r1-04400-89xx.0 
+- sepolicy: address per_mgr denial 
+- Fix a wcnss_service denial
+- Drop libbtconfigstore from blobs list 
+- Remove Telecomm overlays 
+- Fix volte in sim slot 2
