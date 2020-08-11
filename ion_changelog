@@ -1,21 +1,13 @@
 Device changelog
 
-- Add overlays for Always-on display
-- Pin critical system apps that always need ..
-- add missing net_raw to pm-service 
-- Enable ro.telephony.use_old_mnc_mcc_format
-- Move IMS system libs to product
-- Remove qti_libpermissions.xml
-- Drop QMI libqmi_cci_system blobs
-- Move QMI system libs to product 
-- Update RIL permissions from LA.UM.8.6.r1-04400-89xx.0
-- Move RIL system libs to product
-- Import IMS inits for self-contained modules
-- Add audiosphere effect support 
-- Add Audiosphere blobs from LA.UM.8.6.r1-04400-89xx.0 
-- Update qti_permissions from LA.UM.8.6.r1-04400-89xx.0 
-- sepolicy: address per_mgr denial 
-- Fix a wcnss_service denial
-- Drop libbtconfigstore from blobs list 
-- Remove Telecomm overlays 
-- Fix volte in sim slot 2
+- Add dolby 
+- Enable IWLAN overlays
+- Fix Bluetooth call and Audio 
+- Enable Fast BSS Transition
+- Update qcom-sh service user permission 
+- Remove more deprecated display flags 
+- Add some Rom specific configs
+- Update qti-telephony-manager from Vsmart Casuari
+- Remove libbtconfigstore 
+- Import IMS inits for self-contained modules 
+- Update Graphics & Camera firmware from Daisy 
