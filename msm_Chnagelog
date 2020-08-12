@@ -1,0 +1,24 @@
+Initial Build 
+
+source changelog
+• Merged August Security Patch r41
+• Uprev release version to XQ v12.0 
+• Added Font style & Size option in QS Clock. 
+• Added seprate clock colors for QS Clock. 
+• Sensor block per package is now configurable. 
+• Added Quickbar brightness slider. 
+• Added separate options to show-hide for QQS Brightness Slider 
+• Added option for brightness slider position 
+• Fixed brighness icon not showing. 
+• Added option to hide QS drag handle. 
+• Fix battery icon for bluetooth device. 
+• Show bluetooth icon when connected. 
+• Added timer for caffine tile. 
+• Fix dark on dark icon for QSB header. 
+• Added random color option for edge lighting. 
+• Added Ambient Text & image option in Ambient customization. 
+• Added Ambient text, color & size in Ambient customization. 
+• Added Text alignment option in Ambient customization. 
+• Added oneplus autobrightness icon. 
+• Redesign lockscreen bottom shortcuts. 
+• Touch response optimizations
